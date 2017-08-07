@@ -1,0 +1,9 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	BIT14             3305
+//	UP1               3306
+//	UP2               3307
+//	KBSR              3308
+

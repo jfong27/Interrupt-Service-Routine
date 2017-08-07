@@ -1,0 +1,8 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	PC                3506
+//	KBDR              3507
+//	KBSR              3508
+
